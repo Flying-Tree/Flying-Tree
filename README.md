@@ -11,7 +11,7 @@ I'm a French student (that's a reason for my language mistakes) of the Lycée He
 
 It is maybe not a surprise but I like physics, mathematics and of course computer science.
 
-By the way, I use to study Olympic maths (the IMO for example) and I took part in the 2020 JBMO as contestant of the France.
+By the way, I use to study Olympic maths (the IMO for example) and I took part in the 2020 JBMO as a contestant.
 
 ## What I do on GitHub
 
