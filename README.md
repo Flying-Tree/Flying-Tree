@@ -29,4 +29,4 @@ However, I may accept to contribute to someone else's project if I am interested
 
 ## Contact me
 
-Use GitHub first
+I'm still thinking about a public e-mail.
