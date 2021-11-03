@@ -22,9 +22,9 @@ However, I may accept to contribute to someone else's project if I am interested
 ## Abilities
 
 - HTML-CSS-JavaScript : basic basis.
-- Python : I consider that I know what has to be known about it.
+- Python : I consider that I can code with Python.
 - Unity : I'm trying to learn to develop with Unity.
-- Bash : I can do simple scripts to improve the interface of my computer, and I can use the command line for most tasks.
+- Bash : I can do simple scripts to improve the user experience of my computer, and I can use the command line for most tasks.
 - Also, I used to code with Scratch. It was so funny ! 😺
 
 ## Contact me
