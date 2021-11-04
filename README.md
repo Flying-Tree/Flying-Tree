@@ -23,7 +23,7 @@ However, I may accept to contribute to someone else's project if I am interested
 
 - HTML-CSS-JavaScript : basic basis.
 - Python : I consider that I can code with Python.
-- LaTeX : As for Python, I can write documents fastly using LaTeX.
+- LaTeX : I can write documents using LaTeX.
 - Unity : I'm trying to learn to develop with Unity.
 - Bash : I can do simple scripts to improve the user experience of my computer, and I can use the command line for most tasks.
 - Also, I used to code with Scratch. It was so funny ! 😺
